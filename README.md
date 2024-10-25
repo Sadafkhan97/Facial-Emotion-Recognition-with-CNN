@@ -9,7 +9,7 @@ This project implements a Facial Emotion Recognition model using a Convolutional
    
 #Installation
 Clone the repository:
-git clone :
+git clone : https://github.com/Sadafkhan97/Facial-Emotion-Recognition-with-CNN/tree/main
 
 Install the required packages:
 pip install -r requirements.txt
